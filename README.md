@@ -102,17 +102,11 @@ Install the following libraries to run the project successfully:
 ## Project Structure
 - **/backend**: Contains Django models, views, and API endpoints.
 - **/frontend**: Contains React components, hooks, and services for the UI.
-- **/static**: Includes any static files such as CSS and JavaScript.
-- **/templates**: Contains HTML templates for Django.
+- **/additional_data**: Includes any python files.
 
 ## Additional Notes
 - Make sure to set environment variables for sensitive data like API keys and database credentials.
 - The frontend and backend should communicate via REST API endpoints provided by Django.
-
-## Future Enhancements
-- Integrate support for more advanced NLP models.
-- Enhance user authentication and session management.
-- Provide more export formats (e.g., PDF and EPUB).
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with detailed information on your changes.
