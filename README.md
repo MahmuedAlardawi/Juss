@@ -40,14 +40,18 @@ Install the following libraries to run the project successfully:
 ### Setting Up the Backend
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/username/juss-poetry-model.git
-   cd juss-poetry-model
+   git clone https://github.com/username/juss-poetry-model.git](https://github.com/MahmuedAlardawi/Juss.git)
+   cd Juss
+   ```
+   
+2. **Navigate to the backend directory:**
+   ```bash
+   cd backend
    ```
 
 2. **Create a virtual environment:**
    ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows, use `env\Scripts\activate`
+   env/bin/activate
    ```
 
 3. **Install the required Python packages:**
@@ -61,11 +65,6 @@ Install the following libraries to run the project successfully:
    pandas
    requests
    json
-   ```
-
-4. **Run database migrations:**
-   ```bash
-   python manage.py migrate
    ```
 
 5. **Start the Django development server:**
