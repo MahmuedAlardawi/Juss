@@ -123,5 +123,5 @@ This project is licensed under the MIT License. See `LICENSE` for more informati
 
 ---
 ### Contact
-For any questions or feedback, please reach out to the project maintainer at [email@example.com].
+For any questions or feedback, please reach out to the project maintainer at [mmalardawi@stu.kau.edu.sa].
 
