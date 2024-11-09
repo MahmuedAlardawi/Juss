@@ -1,0 +1,6 @@
+Django>=3.2
+Django>=3.2
+djangorestframework
+pandas
+requests
+json
